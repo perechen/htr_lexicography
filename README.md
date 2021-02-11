@@ -1,1 +1,2 @@
-# htr_lexicography
+# HTR on Polish lexicographic index cards
+
